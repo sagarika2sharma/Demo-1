@@ -1,7 +1,6 @@
 
 public class Birthdayyyyyyy {
 public static void main(String[] args) {
-	System.out.println("daru chiya ");
-	System.out.println("chakana vP");
+	System.out.println("Hello from vs Code ");
 }
 }
